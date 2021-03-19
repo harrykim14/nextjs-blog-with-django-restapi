@@ -1,4 +1,4 @@
-## django rest-framework로 작성한 REST api의 자료를 이용한 블로그와 To Do list 웹사이트 만들기
+## django rest-framework로 작성한 REST api를 이용해 블로그와 To Do list 웹사이트 만들기
 * django로 작성한 REST api는 [이쪽](https://github.com/harrykim14/nextjs_restAPI)에서 소스코드를 확인할 수 있습니다
 * 해당 REST api는 Heroku에 deploy되어 있으며 [해당 페이지](https://nextjs-api-harry.herokuapp.com/api/)를 통해 작성된 포스트와 유저 정보 등을 불러올 수 있습니다
 
