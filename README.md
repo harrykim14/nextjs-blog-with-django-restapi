@@ -10,9 +10,8 @@
 
 ![image](https://user-images.githubusercontent.com/67398691/111730535-fae90c80-88b4-11eb-993c-6e56038a9fc6.png)
 
-**3. 블로그 페이지 : REST api에서 불러온 post 정보를 토대로 리스트화 
-  - 이 때, posts들은 nextjs로 build될 때 node-fetch를 통해 자동적으로 api를 호출하고 페이지를 생성함**
-  - 
+**3. 블로그 페이지 : REST api에서 불러온 post 정보를 토대로 리스트화**
+  - 이 때, posts들은 nextjs로 build될 때 node-fetch를 통해 자동적으로 api를 호출하고 페이지를 생성함
 ![image](https://user-images.githubusercontent.com/67398691/111730746-64691b00-88b5-11eb-8249-aa1b26f23dc5.png)
 
 
